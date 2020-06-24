@@ -1,0 +1,1 @@
+Golang implementation of the Bech32 address format (BIP 0173).
